@@ -1,0 +1,5 @@
+br\ale\config\DB.class
+br\ale\entidades\RegrasChamadas.class
+br\ale\entidades\Senhas.class
+br\ale\MyResource.class
+br\ale\dao\AcessaBancoDAO.class
